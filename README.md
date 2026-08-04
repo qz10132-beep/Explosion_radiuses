@@ -7,3 +7,6 @@ And creates A Partical circle to show where you will take the most damage, the l
 
 PARTICAL MEANINGS: 'RED: Death or Close to death', 'yellow: less damage-will not die but take significant damage'
 'green-you will take very little damage close to 0' 'anything outside- 0 damage'
+
+
+                                        MUST HAVE PARTICALS ON
